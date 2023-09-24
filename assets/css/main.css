@@ -1332,7 +1332,7 @@ body {
     .intro--options {
         display: block;
         position: fixed;
-        bottom: 50px;
+        bottom: 80px;
     }
     .contents {
         width: 300px;
